@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Devcond" src="../devcond.png"  width="1000px" />
+    <img alt="Devcond" src="./receita_facil"  width="1000px" />
     <br>App Receita Fácil<br/>
 </h1> 
 
