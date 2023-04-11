@@ -15,7 +15,7 @@ import Logo from "../../components/Logo";
 import api from "../../services/api";
 import Foodlist from "../../components/Foodlist";
 
-export default function Search() {
+export default function Home() {
   const [inputValue, setInputValue] = useState("");
   const [foods, setFoods] = useState([]);
 
